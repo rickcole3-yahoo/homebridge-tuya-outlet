@@ -1,6 +1,8 @@
 Tuya Outlet Support for Homebridge
 ===================================
 
+Some changes
+
 Example `config.json`:
 
     {
